@@ -1,8 +1,13 @@
 streamlit
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 statsmodels
-scipy==1.9.3  # Specify a compatible version for statsmodels
+
 prophet
